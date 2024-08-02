@@ -16,7 +16,7 @@ Welcome to the Rock-Paper-Scissors game implemented in Python! This is a simple 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/rock-paper-scissors.git
+   git clone https://github.com/Danilo-Mugnaini/rock-paper-scissors.git
    cd rock-paper-scissors
    ```
 

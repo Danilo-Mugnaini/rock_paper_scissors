@@ -46,7 +46,6 @@ No external libraries are required. The game runs using Python's built-in featur
 
 Feel free to customize the game further by:
 - Adding more complex win conditions
-- Introducing additional elements (like "Lizard" and "Spock")
 - Creating a GUI version using libraries like `tkinter` or `pygame`
 
 ## Contribution
@@ -56,10 +55,6 @@ Contributions are welcome! If you have ideas for improvements or find any issues
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-Special thanks to all contributors and players who have helped improve this game!
 
 ## Contact
 
